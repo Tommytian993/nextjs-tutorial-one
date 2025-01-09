@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Hello from "./components/hello";
+import Hello from "../components/hello";
 
 export default function Home() {
   // Appeared in the server, meaning could access server-side resources directly(e.g. database or file system
