@@ -1,4 +1,4 @@
-import books from "../../db";
+import books from "../../api/db";
 
 // PUT 端点：根据 id 更新指定书籍信息
 export async function PUT(

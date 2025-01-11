@@ -1,4 +1,4 @@
-import books from "../db";
+import books from "../api/db";
 
 // GET 端点：获取所有书籍列表
 // 返回完整的书籍数组，用于前端展示所有书籍
