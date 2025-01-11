@@ -1,3 +1,4 @@
+// note only error components closest to the route takes priority over the global error component
 export default function GlobalError({
   error,
   reset,
